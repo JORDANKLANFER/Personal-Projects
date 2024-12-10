@@ -1,0 +1,8 @@
+##gff-version 3
+P15835	UniProtKB	Chain	1	97	.	.	.	ID=PRO_0000085369;Note=Protein Tat	
+P15835	UniProtKB	Region	1	32	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P15835	UniProtKB	Region	50	66	.	.	.	Note=Cysteine-rich;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15835	UniProtKB	Region	67	77	.	.	.	Note=Core;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15835	UniProtKB	Motif	78	88	.	.	.	Note=Nuclear localization signal%2C and RNA-binding (TAR);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15835	UniProtKB	Compositional bias	7	32	.	.	.	Note=Polar residues;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P15835	UniProtKB	Non-terminal residue	97	97	.	.	.	.	

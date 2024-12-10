@@ -1,0 +1,33 @@
+{
+  "dateCreated": "2024-12-10T07:11:25.345Z",
+  "tracks": [
+    {
+      "trackId": "HIV2_B_env_sorted.gff",
+      "attributesIndexed": [
+        "Name",
+        "ID"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "./data/env_annotations/HIV2_B_env_sorted.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "./data/env_annotations/HIV2_B_env_sorted.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "HIV2_B_Env_Protein"
+  ]
+}

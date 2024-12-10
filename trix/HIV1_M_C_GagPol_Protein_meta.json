@@ -1,0 +1,33 @@
+{
+  "dateCreated": "2024-12-10T07:11:25.277Z",
+  "tracks": [
+    {
+      "trackId": "HIV1_M_C_gag_pol",
+      "attributesIndexed": [
+        "Name",
+        "ID"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon"
+      ],
+      "adapterConf": {
+        "type": "Gff3Adapter",
+        "gffLocation": {
+          "uri": "./data/gag_pol_annotations/HIV1_M_C_gag_pol_sorted.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "./data/gag_pol_annotations/HIV1_M_C_gag_pol_sorted.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "HIV1_M_C_GagPol_Protein"
+  ]
+}

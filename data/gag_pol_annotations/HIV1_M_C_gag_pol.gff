@@ -1,0 +1,78 @@
+##gff-version 3
+O12158	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed%3B by host;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Chain	2	1431	.	.	.	ID=PRO_0000325005;Note=Gag-Pol polyprotein;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Chain	2	130	.	.	.	ID=PRO_0000325006;Note=Matrix protein p17;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Chain	131	361	.	.	.	ID=PRO_0000325007;Note=Capsid protein p24;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Peptide	362	374	.	.	.	ID=PRO_0000325008;Note=Spacer peptide 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Chain	375	429	.	.	.	ID=PRO_0000325009;Note=Nucleocapsid protein p7;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Peptide	430	437	.	.	.	ID=PRO_0000325010;Note=Transframe peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O12158	UniProtKB	Chain	438	484	.	.	.	ID=PRO_0000325011;Note=P6-pol;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O12158	UniProtKB	Chain	485	583	.	.	.	ID=PRO_0000325012;Note=Protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Chain	584	1143	.	.	.	ID=PRO_0000325013;Note=Reverse transcriptase/ribonuclease H;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Chain	584	1023	.	.	.	ID=PRO_0000325014;Note=P51 RT;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Chain	1024	1143	.	.	.	ID=PRO_0000325015;Note=P15;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Chain	1144	1431	.	.	.	ID=PRO_0000325016;Note=Integrase;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Domain	504	573	.	.	.	Note=Peptidase A2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00275	
+O12158	UniProtKB	Domain	627	817	.	.	.	Note=Reverse transcriptase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00405	
+O12158	UniProtKB	Domain	1017	1140	.	.	.	Note=RNase H type-1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00408	
+O12158	UniProtKB	Domain	1197	1347	.	.	.	Note=Integrase catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00457	
+O12158	UniProtKB	Zinc finger	387	404	.	.	.	Note=CCHC-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00047	
+O12158	UniProtKB	Zinc finger	408	425	.	.	.	Note=CCHC-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00047	
+O12158	UniProtKB	Zinc finger	1146	1187	.	.	.	Note=Integrase-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+O12158	UniProtKB	DNA binding	1366	1413	.	.	.	Note=Integrase-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00506	
+O12158	UniProtKB	Region	7	31	.	.	.	Note=Interaction with Gp41;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12497	
+O12158	UniProtKB	Region	8	43	.	.	.	Note=Interaction with host CALM1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+O12158	UniProtKB	Region	12	19	.	.	.	Note=Interaction with host AP3D1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12497	
+O12158	UniProtKB	Region	14	33	.	.	.	Note=Interaction with membrane phosphatidylinositol 4%2C5-bisphosphate and RNA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12497	
+O12158	UniProtKB	Region	73	77	.	.	.	Note=Interaction with membrane phosphatidylinositol 4%2C5-bisphosphate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12497	
+O12158	UniProtKB	Region	106	126	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+O12158	UniProtKB	Region	187	225	.	.	.	Note=Interaction with human PPIA/CYPA and NUP153;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12497	
+O12158	UniProtKB	Region	275	361	.	.	.	Note=Dimerization/Multimerization of capsid protein p24;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+O12158	UniProtKB	Region	437	461	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+O12158	UniProtKB	Region	485	489	.	.	.	Note=Dimerization of protease;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+O12158	UniProtKB	Region	533	539	.	.	.	Note=Dimerization of protease;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+O12158	UniProtKB	Region	572	584	.	.	.	Note=Dimerization of protease;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+O12158	UniProtKB	Region	810	818	.	.	.	Note=RT 'primer grip';Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Motif	16	22	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Motif	26	32	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Motif	981	997	.	.	.	Note=Tryptophan repeat motif;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Compositional bias	440	461	.	.	.	Note=Polar residues;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+O12158	UniProtKB	Active site	509	509	.	.	.	Note=For protease activity%3B shared with dimeric partner;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10094	
+O12158	UniProtKB	Binding site	693	693	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	768	768	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	769	769	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	1026	1026	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	1061	1061	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	1081	1081	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	1132	1132	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	1155	1155	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+O12158	UniProtKB	Binding site	1159	1159	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+O12158	UniProtKB	Binding site	1183	1183	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+O12158	UniProtKB	Binding site	1186	1186	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+O12158	UniProtKB	Binding site	1207	1207	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	1259	1259	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Binding site	1295	1295	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+O12158	UniProtKB	Site	130	131	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	219	220	.	.	.	Note=Cis/trans isomerization of proline peptide bond%3B by human PPIA/CYPA;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	361	362	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	374	375	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	429	430	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O12158	UniProtKB	Site	437	438	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	484	485	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	583	584	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	984	984	.	.	.	Note=Essential for RT p66/p51 heterodimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	997	997	.	.	.	Note=Essential for RT p66/p51 heterodimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Site	1023	1024	.	.	.	Note=Cleavage%3B by viral protease%3B partial;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O12158	UniProtKB	Site	1143	1144	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Modified residue	130	130	.	.	.	Note=Phosphotyrosine%3B by host;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine%3B by host;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O12158	UniProtKB	Beta strand	486	488	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R5Q	
+O12158	UniProtKB	Beta strand	489	491	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R8N	
+O12158	UniProtKB	Beta strand	494	499	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R8N	
+O12158	UniProtKB	Beta strand	502	508	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R8N	
+O12158	UniProtKB	Beta strand	516	519	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R8N	
+O12158	UniProtKB	Beta strand	527	532	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R8N	
+O12158	UniProtKB	Beta strand	534	550	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R8N	
+O12158	UniProtKB	Beta strand	553	562	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R8N	
+O12158	UniProtKB	Helix	571	576	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R8N	
+O12158	UniProtKB	Beta strand	580	582	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2R5P	

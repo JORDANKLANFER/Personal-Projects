@@ -1,0 +1,33 @@
+{
+  "dateCreated": "2024-12-10T07:11:25.362Z",
+  "tracks": [
+    {
+      "trackId": "HIV1_M_B_tat",
+      "attributesIndexed": [
+        "Name",
+        "ID"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon"
+      ],
+      "adapterConf": {
+        "type": "Gff3Adapter",
+        "gffLocation": {
+          "uri": "./data/tat_annotations/HIV1_M_B_tat_sorted.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "./data/tat_annotations/HIV1_M_B_tat_sorted.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "HIV1_M_B_Tat_Protein"
+  ]
+}

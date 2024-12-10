@@ -1,0 +1,64 @@
+##gff-version 3
+P12451	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed%3B by host;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	2	135	.	.	.	ID=PRO_0000042515;Note=Matrix protein p17;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	2	1462	.	.	.	ID=PRO_0000261299;Note=Gag-Pol polyprotein	
+P12451	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine%3B by host;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Region	7	31	.	.	.	Note=Interaction with Gp41;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12497	
+P12451	UniProtKB	Motif	16	22	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Motif	26	32	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Site	135	136	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	136	364	.	.	.	ID=PRO_0000042516;Note=Capsid protein p24;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Region	191	228	.	.	.	Note=Interaction with human PPIA/CYPA and NUP153;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12497	
+P12451	UniProtKB	Site	222	223	.	.	.	Note=Cis/trans isomerization of proline peptide bond%3B by human PPIA/CYPA;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Region	279	364	.	.	.	Note=Dimerization/Multimerization of capsid protein p24;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+P12451	UniProtKB	Site	364	365	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Peptide	365	381	.	.	.	ID=PRO_0000042517;Note=Spacer peptide 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Site	381	382	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	382	430	.	.	.	ID=PRO_0000042519;Note=Nucleocapsid protein p7;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Zinc finger	388	405	.	.	.	Note=CCHC-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00047	
+P12451	UniProtKB	Zinc finger	409	426	.	.	.	Note=CCHC-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00047	
+P12451	UniProtKB	Site	430	431	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12451	UniProtKB	Peptide	431	444	.	.	.	ID=PRO_0000246748;Note=Transframe peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12451	UniProtKB	Region	441	507	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P12451	UniProtKB	Site	444	445	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	445	511	.	.	.	ID=PRO_0000042521;Note=P6-pol;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12451	UniProtKB	Compositional bias	450	467	.	.	.	Note=Polar residues;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P12451	UniProtKB	Compositional bias	471	506	.	.	.	Note=Basic and acidic residues;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P12451	UniProtKB	Site	511	512	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	512	610	.	.	.	ID=PRO_0000038672;Note=Protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Region	512	516	.	.	.	Note=Dimerization of protease;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+P12451	UniProtKB	Domain	531	600	.	.	.	Note=Peptidase A2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00275	
+P12451	UniProtKB	Active site	536	536	.	.	.	Note=For protease activity%3B shared with dimeric partner;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10094	
+P12451	UniProtKB	Region	560	566	.	.	.	Note=Dimerization of protease;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+P12451	UniProtKB	Region	599	611	.	.	.	Note=Dimerization of protease;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+P12451	UniProtKB	Site	610	611	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	611	1049	.	.	.	ID=PRO_0000042523;Note=P51 RT;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	611	1169	.	.	.	ID=PRO_0000042522;Note=Reverse transcriptase/ribonuclease H;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Domain	654	844	.	.	.	Note=Reverse transcriptase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00405	
+P12451	UniProtKB	Binding site	720	720	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Binding site	795	795	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Binding site	796	796	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Region	837	845	.	.	.	Note=RT 'primer grip';Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Motif	1007	1023	.	.	.	Note=Tryptophan repeat motif;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Site	1010	1010	.	.	.	Note=Essential for RT p66/p51 heterodimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Site	1023	1023	.	.	.	Note=Essential for RT p66/p51 heterodimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Domain	1043	1166	.	.	.	Note=RNase H type-1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00408	
+P12451	UniProtKB	Site	1049	1050	.	.	.	Note=Cleavage%3B by viral protease%3B partial;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	1050	1169	.	.	.	ID=PRO_0000042524;Note=P15;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Binding site	1052	1052	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Binding site	1087	1087	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Binding site	1107	1107	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Binding site	1158	1158	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Site	1169	1170	.	.	.	Note=Cleavage%3B by viral protease;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Chain	1170	1462	.	.	.	ID=PRO_0000042525;Note=Integrase;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Zinc finger	1172	1213	.	.	.	Note=Integrase-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+P12451	UniProtKB	Binding site	1181	1181	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+P12451	UniProtKB	Binding site	1185	1185	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+P12451	UniProtKB	Binding site	1209	1209	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+P12451	UniProtKB	Binding site	1212	1212	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00450	
+P12451	UniProtKB	Domain	1222	1373	.	.	.	Note=Integrase catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00457	
+P12451	UniProtKB	Binding site	1233	1233	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Binding site	1285	1285	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12451	UniProtKB	Binding site	1321	1321	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P04585	
+P12451	UniProtKB	DNA binding	1392	1439	.	.	.	Note=Integrase-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00506	
+P12451	UniProtKB	Region	1443	1462	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	

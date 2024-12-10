@@ -1,0 +1,33 @@
+{
+  "dateCreated": "2024-12-10T07:11:25.394Z",
+  "tracks": [
+    {
+      "trackId": "SIV_cpz_tat",
+      "attributesIndexed": [
+        "Name",
+        "ID"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon"
+      ],
+      "adapterConf": {
+        "type": "Gff3Adapter",
+        "gffLocation": {
+          "uri": "./data/tat_annotations/SIV_cpz_tat_sorted.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "./data/tat_annotations/SIV_cpz_tat_sorted.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "SIV_cpz_Tat_Protein"
+  ]
+}

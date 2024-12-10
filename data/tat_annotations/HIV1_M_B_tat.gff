@@ -1,0 +1,28 @@
+##gff-version 3
+P20879	UniProtKB	Chain	1	101	.	.	.	ID=PRO_0000085348;Note=Protein Tat	
+P20879	UniProtKB	Region	1	48	.	.	.	Note=Transactivation;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Region	1	24	.	.	.	Note=Interaction with human CREBBP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Region	1	20	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P20879	UniProtKB	Region	22	37	.	.	.	Note=Cysteine-rich;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Region	38	48	.	.	.	Note=Core;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Region	45	101	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P20879	UniProtKB	Region	49	86	.	.	.	Note=Interaction with the host capping enzyme RNGTT;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Motif	49	57	.	.	.	Note=Nuclear localization signal%2C RNA-binding (TAR)%2C and protein transduction;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Motif	78	80	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Compositional bias	61	81	.	.	.	Note=Polar residues;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P20879	UniProtKB	Compositional bias	82	101	.	.	.	Note=Basic and acidic residues;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P20879	UniProtKB	Binding site	22	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Binding site	25	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Binding site	27	27	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Binding site	30	30	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Binding site	33	33	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Binding site	34	34	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Binding site	37	37	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Site	11	11	.	.	.	Note=Essential for Tat translocation through the endosomal membrane;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Modified residue	28	28	.	.	.	Note=N6-acetyllysine%3B by host PCAF;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Modified residue	50	50	.	.	.	Note=N6-acetyllysine%3B by host EP300 and GCN5L2;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Modified residue	51	51	.	.	.	Note=N6-acetyllysine%3B by host EP300 and GCN5L2;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Modified residue	52	52	.	.	.	Note=Asymmetric dimethylarginine%3B by host PRMT6;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Modified residue	53	53	.	.	.	Note=Asymmetric dimethylarginine%3B by host PRMT6;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Cross-link	71	71	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04079	
+P20879	UniProtKB	Alternative sequence	73	101	.	.	.	ID=VSP_022413;Note=In isoform Short. Missing	

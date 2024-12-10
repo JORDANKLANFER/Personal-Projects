@@ -1,0 +1,59 @@
+##gff-version 3
+P15831	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Chain	24	513	.	.	.	ID=PRO_0000038439;Note=Surface protein gp120;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Chain	24	859	.	.	.	ID=PRO_0000239498;Note=Envelope glycoprotein gp160	
+P15831	UniProtKB	Topological domain	24	678	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	37	37	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Disulfide bond	44	57	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Glycosylation	70	70	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Disulfide bond	101	214	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Disulfide bond	108	205	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Glycosylation	112	112	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Disulfide bond	113	164	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Region	113	163	.	.	.	Note=V1	
+P15831	UniProtKB	Glycosylation	122	122	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	142	142	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	150	150	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Region	164	205	.	.	.	Note=V2	
+P15831	UniProtKB	Glycosylation	165	165	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	191	191	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	206	206	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Disulfide bond	227	257	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Disulfide bond	237	249	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Glycosylation	238	238	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	241	241	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	248	248	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	272	272	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	278	278	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	289	289	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	300	300	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Disulfide bond	305	338	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Region	305	337	.	.	.	Note=V3	
+P15831	UniProtKB	Glycosylation	310	310	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	343	343	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	367	367	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Disulfide bond	392	449	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Disulfide bond	399	422	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Region	399	422	.	.	.	Note=V4	
+P15831	UniProtKB	Glycosylation	400	400	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	410	410	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	413	413	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	450	450	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	464	464	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Region	465	471	.	.	.	Note=V5	
+P15831	UniProtKB	Glycosylation	468	468	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Site	513	514	.	.	.	Note=Cleavage%3B by host furin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Chain	514	859	.	.	.	ID=PRO_0000038440;Note=Transmembrane protein gp41;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Region	514	534	.	.	.	Note=Fusion peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Region	577	593	.	.	.	Note=Immunosuppression;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Glycosylation	613	613	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	622	622	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Coiled coil	626	647	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Glycosylation	638	638	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Region	659	680	.	.	.	Note=MPER%3B binding to GalCer;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Transmembrane	679	699	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Topological domain	700	859	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P15831	UniProtKB	Motif	709	712	.	.	.	Note=YXXV motif%3B contains endocytosis signal;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Region	715	744	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P15831	UniProtKB	Lipidation	775	775	.	.	.	Note=S-palmitoyl cysteine%3B by host;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15831	UniProtKB	Motif	858	859	.	.	.	Note=Di-leucine internalization motif;Ontology_term=ECO:0000250;evidence=ECO:0000250	

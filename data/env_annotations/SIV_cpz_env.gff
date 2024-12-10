@@ -1,0 +1,61 @@
+##gff-version 3
+Q1A261	UniProtKB	Signal peptide	1	35	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Chain	36	880	.	.	.	ID=PRO_0000441725;Note=Envelope glycoprotein gp160;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Chain	36	527	.	.	.	ID=PRO_0000441726;Note=Surface protein gp120;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Chain	528	880	.	.	.	ID=PRO_0000249353;Note=Transmembrane protein gp41;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Topological domain	36	701	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Transmembrane	702	722	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Topological domain	723	880	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	134	173	.	.	.	Note=V1;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	174	220	.	.	.	Note=V2;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	319	352	.	.	.	Note=V3;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	389	399	.	.	.	Note=CD4-binding loop;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	410	434	.	.	.	Note=V4;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	479	487	.	.	.	Note=V5;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	528	549	.	.	.	Note=Fusion peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	591	609	.	.	.	Note=Immunosuppression;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Region	679	700	.	.	.	Note=MPER%3B binding to GalCer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Coiled coil	650	684	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Motif	729	732	.	.	.	Note=YXXL motif%3B contains endocytosis signal;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Motif	879	880	.	.	.	Note=Di-leucine internalization motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Site	527	528	.	.	.	Note=Cleavage%3B by host furin;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Lipidation	781	781	.	.	.	Note=S-palmitoyl cysteine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	91	91	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	133	133	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	145	145	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	148	148	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	157	157	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	163	163	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	173	173	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	177	177	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	221	221	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	256	256	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	265	265	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	286	286	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	299	299	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	312	312	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	318	318	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	324	324	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	356	356	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	372	372	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	381	381	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	411	411	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	417	417	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	423	423	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	429	429	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	464	464	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	479	479	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	628	628	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	633	633	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	642	642	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Glycosylation	654	654	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	57	77	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	122	229	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	129	220	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	134	174	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	242	271	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	252	263	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	319	353	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	403	461	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	410	434	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	
+Q1A261	UniProtKB	Disulfide bond	615	621	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_04083	

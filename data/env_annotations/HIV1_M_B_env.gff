@@ -1,0 +1,42 @@
+##gff-version 3
+P12490	UniProtKB	Signal peptide	1	31	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Chain	32	421	.	.	.	ID=PRO_0000038412;Note=Truncated surface protein	
+P12490	UniProtKB	Region	130	151	.	.	.	Note=V1	
+P12490	UniProtKB	Region	152	191	.	.	.	Note=V2	
+P12490	UniProtKB	Region	291	324	.	.	.	Note=V3	
+P12490	UniProtKB	Region	357	367	.	.	.	Note=CD4-binding loop;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Region	378	410	.	.	.	Note=V4	
+P12490	UniProtKB	Glycosylation	87	87	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	97	97	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	129	129	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	135	135	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	140	140	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	151	151	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	155	155	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	183	183	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	192	192	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	229	229	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	236	236	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	257	257	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	271	271	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	284	284	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	290	290	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	296	296	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	326	326	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	333	333	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	349	349	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	355	355	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	385	385	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	391	391	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	395	395	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Glycosylation	403	403	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B by host;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12490	UniProtKB	Disulfide bond	53	73	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Disulfide bond	118	200	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Disulfide bond	125	191	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Disulfide bond	130	152	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Disulfide bond	213	242	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Disulfide bond	223	234	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Disulfide bond	291	325	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Disulfide bond	378	410	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P12490	UniProtKB	Beta strand	302	305	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:3MLR	
+P12490	UniProtKB	Beta strand	308	310	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:3MLR	

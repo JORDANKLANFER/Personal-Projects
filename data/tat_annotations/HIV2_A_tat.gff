@@ -1,0 +1,20 @@
+##gff-version 3
+P20880	UniProtKB	Chain	1	130	.	.	.	ID=PRO_0000085375;Note=Protein Tat	
+P20880	UniProtKB	Region	1	29	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P20880	UniProtKB	Region	50	66	.	.	.	Note=Cysteine-rich;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20880	UniProtKB	Region	67	77	.	.	.	Note=Core;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20880	UniProtKB	Region	78	130	.	.	.	Note=Disordered;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P20880	UniProtKB	Motif	78	90	.	.	.	Note=Nuclear localization signal%2C and RNA-binding (TAR);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20880	UniProtKB	Compositional bias	13	29	.	.	.	Note=Polar residues;Ontology_term=ECO:0000256;evidence=ECO:0000256|SAM:MobiDB-lite	
+P20880	UniProtKB	Modified residue	85	85	.	.	.	Note=Phosphothreonine%3B by host CDK9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Modified residue	89	89	.	.	.	Note=Phosphothreonine%3B by host CDK9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Modified residue	94	94	.	.	.	Note=Phosphoserine%3B by host CDK9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Alternative sequence	100	130	.	.	.	ID=VSP_022446;Note=In isoform Short. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20880	UniProtKB	Mutagenesis	3	3	.	.	.	Note=No effect on P-TEFb binding and Tat phosphorylation%3B when associated with A-11. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Mutagenesis	11	11	.	.	.	Note=No effect on P-TEFb binding and Tat phosphorylation%3B when associated with A-3. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Mutagenesis	22	22	.	.	.	Note=No effect on P-TEFb binding and Tat phosphorylation%3B when associated with A-23. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Mutagenesis	23	23	.	.	.	Note=No effect on P-TEFb binding and Tat phosphorylation%3B when associated with A-22. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Complete loss of P-TEFb binding and reduced Tat phosphorylation. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Mutagenesis	85	85	.	.	.	Note=No effect on P-TEFb binding and reduced Tat phosphorylation%3B when associated with A-89 and A-94. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Mutagenesis	89	89	.	.	.	Note=No effect on P-TEFb binding and reduced Tat phosphorylation%3B when associated with A-85 and A-94. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	
+P20880	UniProtKB	Mutagenesis	94	94	.	.	.	Note=No effect on P-TEFb binding and reduced Tat phosphorylation%3B when associated with A-85 and A-89. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8676484;Dbxref=PMID:8676484	

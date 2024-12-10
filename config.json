@@ -2,7 +2,9 @@
   "assemblies": [
     {
       "name": "placeholderAssembly",
-      "aliases": ["alignment_assembly"],
+      "aliases": [
+        "alignment_assembly"
+      ],
       "sequence": {
         "type": "ReferenceSequenceTrack",
         "trackId": "placeholderAssembly_refseq",
@@ -348,26 +350,12 @@
     {
       "name": "Protein3d",
       "url": "https://unpkg.com/jbrowse-plugin-protein3d/dist/jbrowse-plugin-protein3d.umd.production.min.js"
-    },
-    {
-      "name": "MsaView",
-      "url": "https://unpkg.com/jbrowse-plugin-msaview/dist/jbrowse-plugin-msaview.umd.production.min.js"
     }
   ],
   "configuration": {},
   "connections": [],
   "defaultSession": {
-    "name": "New Session",
-    "views": [
-    {
-      "type": "LinearMSAView",
-      "tracks": []
-    }, 
-    {
-      "type": "MSAView",
-      "tracks": []
-    }
-    ]
+    "name": "New Session"
   },
   "tracks": [
     {
@@ -677,7 +665,7 @@
       "assemblyNames": [
         "HIV1_M_B_Tat_Protein"
       ]
-    }, 
+    },
     {
       "type": "FeatureTrack",
       "trackId": "HIV1_M_C_tat",
@@ -886,7 +874,7 @@
         "HIV2_Reference_Genome"
       ]
     }
-    ],
+  ],
   "aggregateTextSearchAdapters": [
     {
       "type": "TrixTextSearchAdapter",
@@ -1171,6 +1159,101 @@
       },
       "assemblyNames": [
         "HIV2_B_Env_Protein"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HIV1_M_B_Tat_Protein-index",
+      "ixFilePath": {
+        "uri": "trix/HIV1_M_B_Tat_Protein.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HIV1_M_B_Tat_Protein.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HIV1_M_B_Tat_Protein_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HIV1_M_B_Tat_Protein"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HIV1_M_C_Tat_Protein-index",
+      "ixFilePath": {
+        "uri": "trix/HIV1_M_C_Tat_Protein.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HIV1_M_C_Tat_Protein.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HIV1_M_C_Tat_Protein_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HIV1_M_C_Tat_Protein"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HIV2_A_Tat_Protein-index",
+      "ixFilePath": {
+        "uri": "trix/HIV2_A_Tat_Protein.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HIV2_A_Tat_Protein.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HIV2_A_Tat_Protein_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HIV2_A_Tat_Protein"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HIV2_B_Tat_Protein-index",
+      "ixFilePath": {
+        "uri": "trix/HIV2_B_Tat_Protein.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HIV2_B_Tat_Protein.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HIV2_B_Tat_Protein_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HIV2_B_Tat_Protein"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "SIV_cpz_Tat_Protein-index",
+      "ixFilePath": {
+        "uri": "trix/SIV_cpz_Tat_Protein.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/SIV_cpz_Tat_Protein.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/SIV_cpz_Tat_Protein_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "SIV_cpz_Tat_Protein"
       ]
     }
   ]

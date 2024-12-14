@@ -1,1 +1,153 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="shortcut icon" href="./favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="A fast and flexible genome browser"/><link rel="manifest" href="./manifest.json"/><title>JBrowse</title><script defer="defer" src="static/js/main.062a7b43.js"></script></head><body style="overscroll-behavior:none"><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plugin Navigation</title>
+    <script
+      src="//unpkg.com/react@16/umd/react.development.js"
+      crossorigin
+    ></script>
+    <script
+      src="//unpkg.com/react-dom@16/umd/react-dom.development.js"
+      crossorigin
+    ></script>
+    <script
+      src="//unpkg.com/@jbrowse/react-linear-genome-view/dist/react-linear-genome-view.umd.development.js"
+      crossorigin
+    ></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        nav {
+            background: #333;
+            color: white;
+            padding: 1em;
+            display: flex;
+            gap: 1em;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+        }
+        .content {
+            padding: 2em;
+        }
+        .page {
+            display: none;
+        }
+        .page.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="#home" onclick="navigateTo('home')">Home</a>
+    <a href="#protein3d" onclick="navigateTo('protein3d')">Protein3D Plugin</a>
+    <a href="#msaview" onclick="navigateTo('msaview')">MSA View Plugin</a>
+    <a href="#linearGenome" onclick="navigateTo('linearGenome')">Linear Genome View</a>
+</nav>
+
+<div class="content">
+    <div id="home" class="page active">
+        <h1>Welcome to Plugin Navigation</h1>
+        <p>Select a plugin from the navigation bar to view its details.</p>
+    </div>
+
+    <div id="protein3d" class="page">
+        <h1>Protein3D Plugin</h1>
+        <p>The <strong>Protein3D Plugin</strong> allows for 3D visualization of protein structures.</p>
+        <p>URL: <a href="https://unpkg.com/jbrowse-plugin-protein3d/dist/jbrowse-plugin-protein3d.umd.production.min.js" target="_blank">Protein3D Plugin</a></p>
+    </div>
+
+    <div id="msaview" class="page">
+        <h1>MSA View Plugin</h1>
+        <p>The <strong>MSA View Plugin</strong> provides a multi-sequence alignment view for genomic and protein data.</p>
+        <p>URL: <a href="https://unpkg.com/jbrowse-plugin-msaview/dist/jbrowse-plugin-msaview.umd.production.min.js" target="_blank">MSA View Plugin</a></p>
+    </div>
+
+    <div id="linearGenome" class="page">
+        <h1>Linear Genome View</h1>
+        <p>Select an assembly to view:</p>
+        <button onclick="loadAssembly('HIV1_Assembly')">HIV-1 Genome</button>
+        <button onclick="loadAssembly('HIV2_Assembly')">HIV-2 Genome</button>
+        <button onclick="loadAssembly('SIV_Assembly')">SIV Genome</button>
+        <div id="jbrowse_linear_genome_view"></div>
+        <script>
+            const { createViewState, JBrowseLinearGenomeView } = window.JBrowseReactLinearGenomeView;
+
+            const assemblies = {
+                HIV1_Assembly: {
+                    name: 'HIV1_Reference_Genome',
+                    sequence: {
+                        type: 'ReferenceSequenceTrack',
+                        trackId: 'HIV1_Track',
+                        adapter: {
+                            type: 'IndexedFastaAdapter',
+                            fastaLocation: { uri: './data/hiv1_data/hiv1_genome.fna', locationType: 'UriLocation' },
+                            faiLocation: { uri: './data/hiv1_data/hiv1_genome.fna.fai', locationType: 'UriLocation' },
+                        },
+                    },
+                },
+                HIV2_Assembly: {
+                    name: 'HIV2_Reference_Genome',
+                    sequence: {
+                        type: 'ReferenceSequenceTrack',
+                        trackId: 'HIV2_Track',
+                        adapter: {
+                            type: 'IndexedFastaAdapter',
+                            fastaLocation: { uri: './data/hiv2_data/hiv2_genome.fna', locationType: 'UriLocation' },
+                            faiLocation: { uri: './data/hiv2_data/hiv2_genome.fna.fai', locationType: 'UriLocation' },
+                        },
+                    },
+                },
+                SIV_Assembly: {
+                    name: 'SIV_Reference_Genome',
+                    sequence: {
+                        type: 'ReferenceSequenceTrack',
+                        trackId: 'SIV_Track',
+                        adapter: {
+                            type: 'IndexedFastaAdapter',
+                            fastaLocation: { uri: './data/siv_data/siv_genome.fna', locationType: 'UriLocation' },
+                            faiLocation: { uri: './data/siv_data/siv_genome.fna.fai', locationType: 'UriLocation' },
+                        },
+                    },
+                },
+            };
+
+            function loadAssembly(assemblyName) {
+                const assembly = assemblies[assemblyName];
+                const state = createViewState({
+                    assembly: assembly,
+                    tracks: [],
+                });
+
+                JBrowseLinearGenomeView({
+                    viewState: state,
+                    container: document.getElementById('jbrowse_linear_genome_view'),
+                });
+            }
+
+            // Load the default assembly on page load
+            loadAssembly('HIV1_Assembly');
+        </script>
+    </div>
+</div>
+
+<script>
+    function navigateTo(pageId) {
+        // Hide all pages
+        document.querySelectorAll('.page').forEach(page => page.classList.remove('active'));
+
+        // Show selected page
+        document.getElementById(pageId).classList.add('active');
+    }
+</script>
+
+</body>
+</html>
